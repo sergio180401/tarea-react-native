@@ -4,9 +4,9 @@ Aplicación móvil de demostración desarrollada con **React Native** y **Expo**
 
 Estudiantes: 
 
-Rodrigo Rene Elias Ramirez
-Dennis Segura Badilla
-Sergio Alejandro Monge Moya
+# Rodrigo Rene Elias Ramirez
+# Dennis Segura Badilla
+# Sergio Alejandro Monge Moya
 
 ## 📱 Descripción
 

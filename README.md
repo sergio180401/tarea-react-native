@@ -1,4 +1,4 @@
-# Tarea Corta 3 – Aplicación React Native (Consumo de API REST)
+# Tarea Corta 4 – Aplicación React Native (Consumo de API REST)
 
 Aplicación móvil de demostración desarrollada con **React Native** y **Expo** que consume una API REST pública y muestra la información en una lista.
 
